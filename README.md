@@ -5,7 +5,7 @@ WildFire
 **Motivation**
 Aim to discuss system design patterns and software design patterns and implement DevOps friendly example scenario following proposed principles. 
 
-#Components
+# Components
  - DNS
  - CDN
  - LoadBalancers
