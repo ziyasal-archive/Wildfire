@@ -5,11 +5,24 @@ WildFire
 **Motivation**  
 Aim to discuss system and software design patterns and implement DevOps friendly example scenario following proposed principles. 
 
+### Principles of Distributed System Design 
+_not in particular order_
+ - High-availability
+ - Performance
+ - Scalability
+ - Manageability
+ - Reliability
+ - Cost
 
+**TODO:** _summary_
+ 
+ 
 # Components
  - DNS
  - CDN
  - LoadBalancers
+  - L4 (Transport)
+  - L7 (Application)
  - WebServers
  - RDBMS
  - NOSQL
@@ -18,7 +31,7 @@ Aim to discuss system and software design patterns and implement DevOps friendly
 
 ## Example Scenario Suggestions
 - Realtime Backend as a Service
-- E-Commerce 
+- E-Commerce
 - Messaging service for online gaming
 - etc
 
