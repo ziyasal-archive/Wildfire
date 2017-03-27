@@ -36,9 +36,9 @@ _not in particular order_
 - etc
 
 ## Example scenario
-```sh
-#TBD
-```
+**E-Commerce**
+![Alt text](e-shop architecture)
+<img src="https://github.com/ziyasal/Wildfire/blob/master/pencil/e-shop.svg">
 
 ## Application Architecture
 ```sh
