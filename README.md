@@ -37,7 +37,7 @@ _not in particular order_
 
 ## Example scenario
 **E-Commerce**
-![Alt text](https://github.com/ziyasal/Wildfire/blob/master/pencil/e-shop.png)
+![Alt text](sample e-shop architecture)
 <img src="https://github.com/ziyasal/Wildfire/blob/master/pencil/e-shop.png">
 
 ## Application Architecture
