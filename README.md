@@ -37,8 +37,8 @@ _not in particular order_
 
 ## Example scenario
 **E-Commerce**
-![Alt text](e-shop architecture)
-<img src="https://github.com/ziyasal/Wildfire/blob/master/pencil/e-shop.svg">
+![Alt text](https://raw.githubusercontent.com/ziyasal/Wildfire/master/pencil/e-shop.svg)
+<img src="https://raw.githubusercontent.com/ziyasal/Wildfire/master/pencil/e-shop.svg">
 
 ## Application Architecture
 ```sh
