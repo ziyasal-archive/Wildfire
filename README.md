@@ -36,7 +36,7 @@ _not in particular order_
 - etc
 
 ## Example scenario
-**E-Commerce**
+**E-Commerce**  
 ![Alt text](sample e-shop architecture)
 <img src="https://github.com/ziyasal/Wildfire/blob/master/pencil/e-shop.png">
 
