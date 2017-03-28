@@ -5,7 +5,7 @@ WildFire
 **Motivation**  
 Aim to discuss system and software design patterns and implement DevOps friendly example scenario following proposed principles. 
 
-### Principles of Distributed System Design 
+### Principles of Distributed System Design (In progress)
 _not in particular order_
  * High-availability
  * Performance
@@ -17,30 +17,36 @@ _not in particular order_
 **TODO:** _summary_
  
  
-# Components
- * DNS
- * CDN
- * LoadBalancers
+# Components (In progress)
+ * [DNS]()
+ * [CDN]()
+ * [LoadBalancers]()
    - L4 (Transport)
    - L7 (Application)
- * WebServers
- * RDBMS
- * NOSQL
- * Message Queues
- * Caching
+ * [WebServers]()
+ * [RDBMS]()
+   - MSSQL (on Linux)
+   - Postgres
+ * [NOSQL and Graph DB's]()
+   - Cassandra
+   - Couchbase
+   - DynamoDB
+   - Neo4j
+ * [Message Queues]()
+ * [Caching]()
 
 ## Example Scenario Suggestions
 * Realtime Backend as a Service
 * E-Commerce
 * Messaging service for online gaming
-* etc
+* ...
 
-## Example scenario
+## Example scenario (In progress)
 E-Commerce
 ============================
 > Sample application is cross-platform either at the server and client side and the architecture proposes a simplified microservice oriented architecture implementation with multiple autonomous microservices (each one owning its own data/db and of course we will be discussing pros/cons later on) and implementing different approaches within each microservice using different programming languages.
 
-
+**Sample Graph (In progress)**  
 ![e-commerce](https://github.com/ziyasal/Wildfire/blob/master/pencil/e-shop.png)
 
 ### Application Architecture  
@@ -48,12 +54,16 @@ E-Commerce
 #TODO
 ```
 
-### CI/CD  
+### CI/CD (In progress)  
+> Everything will be implemented as "Pipeline as Code"
+
 ```sh
 #TODO
 ```
 
-### Infrastructure  
+### Infrastructure (In progress)  
+> Kubernetes on AWS will be used (There is a plan to create Terraform templates for other vendors if I have time.)
+
 ```sh
 #TODO
 ```
@@ -61,12 +71,6 @@ E-Commerce
 ## 
 ```sh
 #TODO
-```
-
-## Basics
-
-```sh
-#TODO:
 ```
 
 License @MIT
