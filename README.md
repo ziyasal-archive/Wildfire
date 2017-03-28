@@ -23,7 +23,9 @@ _not in particular order_
  * [LoadBalancers]()
    - L4 (Transport)
    - L7 (Application)
- * [WebServers]()
+ * [WebServer & Reverse Proxy]()
+   - Kestrel
+   - Nginx
  * [RDBMS]()
    - MSSQL (on Linux)
    - Postgres
@@ -33,7 +35,13 @@ _not in particular order_
    - DynamoDB
    - Neo4j
  * [Message Queues]()
+ * Search
+   - Elasticsearch
+   - Neo4j (Graph-Based Search)
  * [Caching]()
+   - Varnish
+   - Redis
+   - Elasticache
 
 ## Example Scenario Suggestions
 * Realtime Backend as a Service
