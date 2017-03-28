@@ -40,6 +40,7 @@ E-Commerce
 ============================
 > Sample application is cross-platform either at the server and client side and the architecture proposes a simplified microservice oriented architecture implementation with multiple autonomous microservices (each one owning its own data/db and of course we will be discussing pros/cons later on) and implementing different approaches within each microservice using different programming languages.
 
+
 ![e-commerce](https://github.com/ziyasal/Wildfire/blob/master/pencil/e-shop.png)
 
 ### Application Architecture  
