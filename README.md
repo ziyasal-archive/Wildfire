@@ -72,9 +72,16 @@ E-Commerce
 ### Infrastructure (In progress)  
 > Kubernetes on AWS will be used (There is a plan to create Terraform templates for other vendors if I have time.)
 
-```sh
-#TODO
-```
+**Cluster provisioning**  
+**AWS integration**  
+**Ingress**  
+**Cluster autoscaling**  
+**OAuth/IAM**  
+**Operations/monitoring**  
+
+- Create ectd cluster seperately
+- Use [kops](https://github.com/kubernetes/kops) to create Kubernetes cluster on AWS
+- TODO:
 
 ## 
 ```sh
